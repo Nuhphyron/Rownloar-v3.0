@@ -2,6 +2,10 @@
 
 **Rownloar Pro** is an advanced multi‑threaded download accelerator designed to **bypass per‑connection speed limits** imposed by many file hosting services. By splitting files into chunks and downloading them simultaneously with multiple connections, it can saturate your available bandwidth and dramatically increase download speeds.
 
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Nuhphyron/Scr4py-Proxy-Scraper&type=date&legend=top-left)](https://www.star-history.com/#Nuhphyron/Scr4py-Proxy-Scraper&type=date&legend=top-left)
+
 ---
 
 ## ✨ Features
